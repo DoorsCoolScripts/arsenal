@@ -1,0 +1,491 @@
+--discord.gg/boronide, code generated using luamin.js™
+
+
+
+--discord.gg/boronide, code generated using luamin.js™
+
+
+
+local L_1_ = {
+	_uwUowOUwUUwUuwuUwuuWuuwUOwOUwUOWO = 84,
+	_OwOuWuUwUOwOuwUUwuOWoUwUOwoUwUOWO = 119,
+	_UwUOwOUwUOWOUwUUwuowOuWUOwOuwUUwU = 73,
+	_uwUUWuOwOOwoUwuUwUowOowoUwUowOOwO = 110,
+	_UwUUwuUWuOwoUWuUWuUwUuwUOwOUwUuWU = 102,
+	_UwUUwUowOOwOowoOwOOwOuwUOwOUWuUwU = 111,
+	_owOoWoOWouwUUwuOwOuwUUWuOwouwUUwU = 86,
+	_owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu = 101,
+	_oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO = 99,
+	_OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU = 116,
+	_owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu = 111,
+	_OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO = 114,
+	_OwoOWoUwUOwOuwUUWuoWoUwUUWUOwOuwU = 51,
+	_OwOowOUwuOwOuWuUwUuWUUWuuwUOwOUwU = 119,
+	_owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo = 97,
+	_uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu = 105,
+	_UwUUWuUwUOwOUwUOWooWOOwOuwUowOuwU = 73,
+	_UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo = 110,
+	_OwOOwOoWoOwOowOOwOUwUoWoOwOOwOUWU = 115,
+	_OwoOwOOwouwuUwUuwuOwOOWoUWUOwOUwu = 103,
+	_UwUowoOwOOWoUwUUwUuwuuWUUwuOwOowO = 109,
+	_oWOOwOOwOOwOOwOoWOuwUuwUOwOoWOOwo = 112,
+	_OwOOwOOwOOwOUwuOwooWOOwoOwOUwUOwO = 69,
+	_OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO = 117,
+	_OwouwUuwUuwUOwOUWUUwUOwOOwOOwOowO = 67,
+	_uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU = 108,
+	_UwuOwOOwoUwuOwOUWuuWuOwoowOOwOowo = 85,
+	_OWouwUuwUOwOOwoUwUOWoOwoOwoUwuUwU = 68,
+	_UwUowOuwuOwOOwoOWOUwuOwOOwoUwUUwu = 50,
+	_owOowOUWuOwOowOowoowouwuOwOUwUowo = 83,
+	_uWUowOUwUOwoOwOUwUuwuUwuOwOowOOWo = 71,
+	_owOOwOUwuUwUuWuOwOOwoOwOOwOowOuWU = 70,
+	_owOOwOUwuuwUUWUowOuwUOwOUwUuwUowO = 84,
+	_uwUOwOuwuUwUoWoOwOOwOuwUOwOuwUUWu = 120,
+	_uwUOwOUwuOwooWOuwUOwOUwuOwOuwUUwu = 76,
+	_OwOOwOowOUwUowouwUUwUuwuUwUUwuUwU = 98,
+	_uWuOwOuwUuwUuwuOWoOwouwUOwOOwOOWo = 66,
+	_UwUUwUOwOuwUoWouwUoWOUwuOwoOwOowO = 80,
+	_uwUowouWuUWuoWouwUuwUUwuuwUuwUUwu = 121,
+	_OwoUwUuwUOwOOwOOwoowOUwUuWUuwuowO = 65,
+	_OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU = 32,
+	_uWUOwOUwuUwUOwOowOowOUwUOwOuwuuwu = 100,
+	_owoOwOOwOUWuowOOwOUwUOwOUWuoWoUwU = 104,
+	_uwuoWOOwOOwoUwUUwUUwUowOowOOwoOWO = 77,
+	_OWOOwOOwOUwUOwOUWuUwUUwUuwUUwUoWO = 79,
+	_UwuOwoUwUUwUOwOUwUOwOUwUOwouwUUwu = 47,
+	_owoowouwUUwUuwUOwoUwUuwUuwUOwoUwU = 102,
+	_OwOowOUwUUwUOwoOwOowOuWuOwOoWouwU = 58,
+	_UwUOwouWUowoOwoUwUuwuOwoOWoOwOuwU = 118
+}
+local L_2_ = string;
+local L_3_ = getfenv()[L_2_.char(L_1_._uwUowOUwUUwUuwuUwuuWuuwUOwOUwUOWO, L_1_._OwOuWuUwUOwOuwUUwuOWoUwUOwoUwUOWO, (function(L_26_arg0, L_27_arg1)
+	local L_28_ = {
+		939,
+		985,
+		306,
+		182,
+		313
+	}
+	return #L_28_
+end)() + 96, (function(L_29_arg0, L_30_arg1)
+	local L_31_ = {
+		692,
+		505,
+		355,
+		830,
+		270
+	}
+	return #L_31_
+end)() + 96, (function(L_32_arg0, L_33_arg1)
+	local L_34_ = {
+		114,
+		879,
+		700,
+		473,
+		440
+	}
+	return #L_34_
+end)() + 105, L_1_._UwUOwOUwUOWOUwUUwuowOuWUOwOuwUUwU, L_1_._uwUUWuOwOOwoUwuUwUowOowoUwUowOOwO, L_1_._UwUUwuUWuOwoUWuUWuUwUuwUOwOUwUuWU, L_1_._UwUUwUowOOwOowoOwOOwOuwUOwOUWuUwU) .. L_2_.char() .. '']
+local L_4_ = getfenv()[L_2_.char(L_1_._owOoWoOWouwUUwuOwOuwUUWuOwouwUUwU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._OwoOWoUwUOwOuwUUWuoWoUwUUWUOwOuwU) .. '']
+local L_5_ = getfenv()[L_2_.char(L_1_._OwOowOUwuOwOuWuUwUuWUUWuuwUOwOUwU, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU) .. '']
+local L_6_ = getfenv()[L_2_.char(L_1_._UwUUWuUwUOwOUwUOWooWOOwOuwUowOuwU, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._OwOOwOoWoOwOowOOwOUwUoWoOwOOwOUWU, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu) .. '']
+local L_7_ = getfenv()[L_2_.char(L_1_._OwoOwOOwouwuUwUuwuOwOOWoUWUOwOUwu, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._UwUowoOwOOWoUwUUwUuwuuWUUwuOwOowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu) .. '']
+local L_8_ = getfenv()[L_2_.char(L_1_._oWOOwOOwOOwOOwOoWOuwUuwUOwOoWOOwo, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._OwOOwOoWoOwOowOOwOUwUoWoOwOOwOUWU) .. '']
+local L_9_ = getfenv()[L_2_.char(L_1_._OwOOwOOwOOwOUwuOwooWOOwoOwOUwUOwO, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO, L_1_._UwUowoOwOOWoUwUUwUuwuuWUUwuOwOowO) .. '']
+local L_10_ = getfenv()[L_2_.char(L_1_._OwouwUuwUuwUOwOUWUUwUOwOOwOOwOowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._OwoOWoUwUOwOuwUUWuoWoUwUUWUOwOuwU) .. '']
+local L_11_ = getfenv()[L_2_.char(L_1_._OwoOwOOwouwuUwUuwuOwOOWoUWUOwOUwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._oWOOwOOwOOwOOwOoWOuwUuwUOwOoWOOwo, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._OwOOwOoWoOwOowOOwOUwUoWoOwOOwOUWU, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._UwUowoOwOOWoUwUUwUuwuuWUUwuOwOowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu) .. '']
+local L_12_ = getfenv()[L_2_.char(L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu) .. '']
+local L_13_ = getfenv()[L_2_.char(L_1_._UwuOwOOwoUwuOwOUWuuWuOwoowOOwOowo, L_1_._OWouwUuwUOwOOwoUwUOWoOwoOwoUwuUwU, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._UwUowoOwOOWoUwUUwUuwuuWUUwuOwOowO, L_1_._UwUowOuwuOwOOwoOWOUwuOwOOwoUwUUwu) .. '']
+local L_14_ = L_6_.new(L_2_.char(L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._uWUowOUwUOwoOwOUwUuwuUwuOwOowOOWo, L_1_._OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu) .. "")
+local L_15_ = L_6_.new(L_2_.char(L_1_._owOOwOUwuUwUuWuOwOOwoOwOOwOowOuWU, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._UwUowoOwOOWoUwUUwUuwuuWUUwuOwOowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu) .. "")
+local L_16_ = L_6_.new(L_2_.char(L_1_._UwuOwOOwoUwuOwOUWuuWuOwoowOOwOowo, L_1_._UwUUWuUwUOwOUwUOWooWOOwOuwUowOuwU, L_1_._OwouwUuwUuwUOwOUWUUwUOwOOwOOwOowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO) .. "")
+local L_17_ = L_6_.new(L_2_.char(L_1_._owOOwOUwuuwUUWUowOuwUOwOUwUuwUowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._uwUOwOuwuUwUoWoOwOOwOuwUOwOuwUUWu, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._uwUOwOUwuOwooWOuwUOwOUwuOwOuwUUwu, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._OwOOwOowOUwUowouwUUwUuwuUwUUwuUwU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU) .. "")
+local L_18_ = L_6_.new(L_2_.char(L_1_._owOOwOUwuuwUUWUowOuwUOwOUwUuwUowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._uwUOwOuwuUwUoWoOwOOwOuwUOwOuwUUWu, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._uWuOwOuwUuwUuwuOWoOwouwUOwOOwOOWo, L_1_._OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo) .. "")
+local L_19_ = L_6_.new(L_2_.char(L_1_._UwuOwOOwoUwuOwOUWuuWuOwoowOOwOowo, L_1_._UwUUWuUwUOwOUwUOWooWOOwOuwUowOuwU, L_1_._OwouwUuwUuwUOwOUWUUwUOwOOwOOwOowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO) .. "")
+local L_20_ = L_6_.new(L_2_.char(L_1_._owOOwOUwuuwUUWUowOuwUOwOUwUuwUowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._uwUOwOuwuUwUoWoOwOOwOuwUOwOuwUUWu, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._uwUOwOUwuOwooWOuwUOwOUwuOwOuwUUwu, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._OwOOwOowOUwUowouwUUwUuwuUwUUwuUwU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU) .. "")
+local L_21_ = L_6_.new(L_2_.char(L_1_._owOOwOUwuuwUUWUowOuwUOwOUwUuwUowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._uwUOwOuwuUwUoWoOwOOwOuwUOwOuwUUWu, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._uwUOwOUwuOwooWOuwUOwOUwuOwOuwUUwu, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._OwOOwOowOUwUowouwUUwUuwuUwUUwuUwU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU) .. "")
+local L_22_ = L_6_.new(L_2_.char(L_1_._UwuOwOOwoUwuOwOUWuuWuOwoowOOwOowo, L_1_._UwUUWuUwUOwOUwUOWooWOOwOuwUowOuwU, L_1_._OwouwUuwUuwUOwOUWUUwUOwOOwOOwOowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO) .. "")
+L_14_.Parent = L_7_.Players.LocalPlayer:WaitForChild(L_2_.char(L_1_._UwUUwUOwOuwUoWouwUoWOUwuOwoOwOowO, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwUowouWuUWuoWouwUuwUUwuuwUuwUUwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._uWUowOUwUOwoOwOUwUuwuUwuOwOowOOWo, L_1_._OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu) .. "")
+L_14_.ZIndexBehavior = L_9_.ZIndexBehavior.Sibling;
+L_15_.Name = L_2_.char(L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._OwoUwUuwUOwOOwOOwoowOUwUuWUuwuowO) .. ""
+L_15_.Parent = L_14_;
+L_15_.BackgroundColor3 = L_10_.fromRGB((function()
+	local L_35_ = "007657B90636806178B272862525D784817DA81CD45E1B635F9C794A3667E7AEEB5B087868662D5BFAC635A70AF7CDE4F8BD"
+	return #L_35_ + 100
+end)(), (function(L_36_arg0, L_37_arg1)
+	local L_38_ = {
+		468,
+		98,
+		158,
+		111,
+		647
+	}
+	return #L_38_
+end)() + 220, (function(L_39_arg0, L_40_arg1)
+	local L_41_ = {
+		375,
+		432,
+		885,
+		39,
+		612
+	}
+	return #L_41_
+end)() + 210)
+L_15_.BorderColor3 = L_10_.fromRGB(0 , 0 , (function()
+	local L_42_ = ""
+	return #L_42_ + 0
+end)())
+L_15_.BorderSizePixel = (function()
+	local L_43_ = ""
+	return #L_43_ + 0
+end)()
+L_15_.Position = L_13_.new(0.390139997 , (function()
+	local L_44_ = ""
+	return #L_44_ + 0
+end)(), 0.307328612 , 0 )
+L_15_.Size = L_13_.new(0 , 360 , 0 , (function(L_45_arg0, L_46_arg1)
+	local L_47_ = {
+		935,
+		107,
+		179,
+		280,
+		728
+	}
+	return #L_47_
+end)() + 321)
+L_16_.Parent = L_15_;
+L_17_.Name = L_2_.char(L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._OwoUwUuwUOwOOwOOwoowOUwUuWUuwuowO, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._owOOwOUwuuwUUWUowOuwUOwOUwUuwUowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._uwUOwOuwuUwUoWoOwOOwOuwUOwOuwUUWu, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU) .. ""
+L_17_.Parent = L_15_;
+L_17_.BackgroundColor3 = L_10_.fromRGB((function(L_48_arg0, L_49_arg1)
+	local L_50_ = {
+		174,
+		151,
+		950,
+		632,
+		969
+	}
+	return #L_50_
+end)() + 195, 225 , (function()
+	local L_51_ = "3993D7EABA8BEA7470551BBD0CBF4F91A64FCD225B4FE67ADEBB8B51C6FCA03CF757C653F7AC5D943059A37E33FE68F1EEB9"
+	return #L_51_ + 115
+end)())
+L_17_.BorderColor3 = L_10_.fromRGB(170 , (function()
+	local L_52_ = ""
+	return #L_52_ + 0
+end)(), (function(L_53_arg0, L_54_arg1)
+	local L_55_ = {}
+	return #L_55_
+end)() + 0)
+L_17_.BorderSizePixel = 0
+L_17_.Size = L_13_.new(0 , (function()
+	local L_56_ = "DDA638502E225B1853E3B28402C4088C9112A3EE60D8D178ED3BED832E740431DC32BC8D0CD767B60FA9F5BEE8D4E02A9E83"
+	return #L_56_ + 260
+end)(), 0 , 60 )
+L_17_.Font = L_9_.Font.Bangers;
+L_17_.Text = L_2_.char(L_1_._uWUOwOUwuUwUOwOowOowOUwUOwOuwuuwu, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._owoOwOOwOUWuowOOwOUwUOwOUWuoWoUwU, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwUOwOuwuUwUoWoOwOOwOuwUOwOuwUUWu, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._oWOOwOOwOOwOOwOoWOuwUuwUOwOoWOOwo) .. ""
+L_17_.TextColor3 = L_10_.fromRGB((function(L_57_arg0, L_58_arg1)
+	local L_59_ = {
+		152,
+		155,
+		683,
+		913,
+		959
+	}
+	return #L_59_
+end)() + 49, (function(L_60_arg0, L_61_arg1)
+	local L_62_ = {
+		385,
+		(function(L_63_arg0, L_64_arg1, L_65_arg2)
+			return 823 and '254EF9' or '254EF9' == nil or L_64_arg1 * '254EF9' + L_64_arg1, L_65_arg2
+		end)('254EF9') or (0.651841280239577) or 0,
+		819,
+		542,
+		90
+	}
+	return #L_62_
+end)() + 109, (function()
+	local L_66_ = "726EE5FCCECC1787F9404FCF110BEA5B495E5D8CA78046A89BD248C643F7E902992B66BF595ADAFDB076DA649F00D854ADD4"
+	return #L_66_ + 109
+end)())
+L_17_.TextSize = 43.000
+L_17_.TextStrokeTransparency = 0
+L_18_.Name = L_2_.char(L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._OwoUwUuwUOwOOwOOwoowOUwUuWUuwuowO, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._UwUowoOwOOWoUwUUwUuwuuWUUwuOwOowO) .. ""
+L_18_.Parent = L_15_;
+L_18_.BackgroundColor3 = L_10_.fromRGB((function()
+	local L_67_ = "3A7B1AABA98C3CA3FE52610E0BE16D5F8966464BEDF8FCE1C4AE9C018E9AEF6CF1EAC08AE49786E489A9B1AE5BF05D6F2583"
+	return #L_67_ + 0
+end)(), (function(L_68_arg0, L_69_arg1)
+	local L_70_ = {
+		40,
+		292,
+		960,
+		329,
+		813
+	}
+	return #L_70_
+end)() + 95, (function()
+	local L_71_ = "4A4B8FF4C2324B583547E55BDE986B1B4E047CB876DB09249624D9E5F5955D53B79D75606AA1CA7368AAAB97C5373069D6BA"
+	return #L_71_ + 0
+end)())
+L_18_.BorderColor3 = L_10_.fromRGB(0 , 0 , (function(L_72_arg0, L_73_arg1)
+	local L_74_ = {}
+	return #L_74_
+end)() + 0)
+L_18_.BorderSizePixel = (function()
+	local L_75_ = ""
+	return #L_75_ + 0
+end)()
+L_18_.Position = L_13_.new(0.202222224 , 0 , 0.205521479 , 0 )
+L_18_.Size = L_13_.new(0 , 213 , 0 , 79 )
+L_18_.Font = L_9_.Font.LuckiestGuy;
+L_18_.Text = L_2_.char(L_1_._OwOOwOOwOOwOUwuOwooWOOwoOwOUwUOwO, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._OwOOwOowOUwUowouwUUwUuwuUwUUwuUwU, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._OwoUwUuwUOwOOwOOwoowOUwUuWUuwuowO, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._UwUowoOwOOWoUwUUwUuwuuWUUwuOwOowO) .. ""
+L_18_.TextColor3 = L_10_.fromRGB(54 , 114 , 209 )
+L_18_.TextSize = 22.5
+L_18_.TextStrokeTransparency = (function(L_76_arg0, L_77_arg1)
+	local L_78_ = {}
+	return #L_78_
+end)() + 0;
+L_19_.Parent = L_18_;
+L_20_.Name = L_2_.char(L_1_._uwuoWOOwOOwoUwUUwUUwUowOowOOwoOWO, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uWUOwOUwuUwUOwOowOowOUwUOwOuwuuwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._uWuOwOuwUuwUuwuOWoOwouwUOwOOwOOWo, L_1_._uwUowouWuUWuoWouwUuwUUwuuwUuwUUwu) .. ""
+L_20_.Parent = L_15_;
+L_20_.BackgroundColor3 = L_10_.fromRGB((function()
+	local L_79_ = "42E80B1DFFC1E00C21B8E6FCF10BFE6E965CCDD5E4B3F2BFF1382344643C1E5CE0403EED9C8F75F6F1B53F5973F901FA9432"
+	return #L_79_ + 155
+end)(), (function(L_80_arg0, L_81_arg1)
+	local L_82_ = {
+		95,
+		239,
+		399,
+		125,
+		235
+	}
+	return #L_82_
+end)() + 250, 255 )
+L_20_.BackgroundTransparency = 1.000
+L_20_.BorderColor3 = L_10_.fromRGB(0 , 0 , (function()
+	local L_83_ = ""
+	return #L_83_ + 0
+end)())
+L_20_.BorderSizePixel = (function()
+	local L_84_ = ""
+	return #L_84_ + 0
+end)()
+L_20_.Position = L_13_.new(0 , (function(L_85_arg0, L_86_arg1)
+	local L_87_ = {}
+	return #L_87_
+end)() + 0, 0.856625745 , 0 )
+L_20_.Size = L_13_.new(0 , 360 , 0 , 50 )
+L_20_.Font = L_9_.Font.LuckiestGuy;
+L_20_.Text = L_2_.char(L_1_._uWuOwOuwUuwUuwuOWoOwouwUOwOOwOOWo, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._owOOwOUwuuwUUWUowOuwUOwOUwUuwUowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._owOOwOUwuuwUUWUowOuwUOwOUwUuwUowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwoOwOOwouwuUwUuwuOwOOWoUWUOwOUwu, L_1_._OwoOwOOwouwuUwUuwuOwOOWoUWUOwOUwu, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._OWOOwOOwOUwUOwOUWuUwUUwUuwUUwUoWO, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._UwuOwoUwUUwUOwOUwUOwOUwUOwouwUUwu, L_1_._OWOOwOOwOUwUOwOUWuUwUUwUuwUUwUoWO, L_1_._owoowouwUUwUuwUOwoUwUuwUuwUOwoUwU, L_1_._owoowouwUUwUuwUOwoUwUuwUuwUOwoUwU) .. ""
+L_20_.TextColor3 = L_10_.fromRGB(54 , (function(L_88_arg0, L_89_arg1)
+	local L_90_ = {
+		734,
+		414,
+		403,
+		90,
+		537
+	}
+	return #L_90_
+end)() + 109, (function(L_91_arg0, L_92_arg1)
+	local L_93_ = {
+		956,
+		308,
+		163,
+		182,
+		225
+	}
+	return #L_93_
+end)() + 204)
+L_20_.TextSize = 26.000
+L_20_.TextStrokeTransparency = 0
+L_21_.Name = L_2_.char(L_1_._UwUUwUOwOuwUoWouwUoWOUwuOwoOwOowO, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwUowouWuUWuoWouwUuwUUwuuwUuwUUwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._OwouwUuwUuwUOwOUWUUwUOwOOwOOwOowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU) .. ""
+L_21_.Parent = L_15_;
+L_21_.BackgroundColor3 = L_10_.fromRGB((function()
+	local L_94_ = "85F51920553C8825B4F8C53D75E8FE158516F3DABE989FA804CC7E8E3BE2009E2A2FB0EA2192D201354A33F47E23C7C59DA5"
+	return #L_94_ + 0
+end)(), 100 , 100 )
+L_21_.BorderColor3 = L_10_.fromRGB((function()
+	local L_95_ = "E655A3FC140A45D20C56922A9BB24BA866898089FAAD57F2C77D8F28CE50CE73639874D4EC76109B70687B3423610484BC5F"
+	return #L_95_ + 155
+end)(), 0 , (function(L_96_arg0, L_97_arg1)
+	local L_98_ = {}
+	return #L_98_
+end)() + 0)
+L_21_.BorderSizePixel = 50
+L_21_.Position = L_13_.new(0.202222224 , 0 , 0.604294479 , 0 )
+L_21_.Size = L_13_.new(0 , (function(L_99_arg0, L_100_arg1)
+	local L_101_ = {
+		677,
+		288,
+		159,
+		(function(L_102_arg0, L_103_arg1, L_104_arg2)
+			return 283 and '39CA8599' or '39CA8599' == nil or L_103_arg1 * '39CA8599' + L_103_arg1, L_104_arg2
+		end)('39CA8599') or (false) or 96496 * (3988),
+		711
+	}
+	return #L_101_
+end)() + 208, 0 , 79 )
+L_21_.Font = L_9_.Font.LuckiestGuy;
+L_21_.Text = L_2_.char(L_1_._UwUUwUOwOuwUoWouwUoWOUwuOwoOwOowO, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwUowouWuUWuoWouwUuwUUwuuwUuwUUwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._OwouwUuwUuwUOwOUWUUwUOwOOwOOwOowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._OwOowOUwUUwUOwoOwOowOuWuOwOoWouwU) .. ""
+L_21_.TextColor3 = L_10_.fromRGB((function(L_105_arg0, L_106_arg1)
+	local L_107_ = {
+		405,
+		605,
+		693,
+		193,
+		313
+	}
+	return #L_107_
+end)() + 49, 114 , 209 )
+L_21_.TextSize = 23.000
+L_21_.TextStrokeTransparency = 0
+L_22_.Parent = L_21_;
+local function L_23_func()
+	local L_108_ = L_6_.new(L_2_.char(L_1_._uwUOwOUwuOwooWOuwUOwOUwuOwOuwUUwu, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._oWOOwOOwOOwOOwOoWOuwUuwUOwOoWOOwo, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU) .. '', L_15_)
+	local L_109_ = L_7_:GetService(L_2_.char(L_1_._UwuOwOOwoUwuOwOUWuuWuOwoowOOwOowo, L_1_._OwOOwOoWoOwOowOOwOUwUoWoOwOOwOUWU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._UwUUWuUwUOwOUwUOWooWOOwOuwUowOuwU, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._oWOOwOOwOOwOOwOoWOuwUuwUOwOoWOOwo, L_1_._OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._UwUOwouWUowoOwoUwUuwuOwoOWoOwOuwU, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu) .. '')
+	local L_110_ = L_108_.Parent;
+	local L_111_ = nil
+	local L_112_ = 0.25
+	local L_113_ = nil
+	local L_114_ = nil
+	local function L_115_func(L_116_arg0)
+		local L_117_ = L_116_arg0.Position - L_113_;
+		local L_118_ = L_13_.new(L_114_.X.Scale, L_114_.X.Offset + L_117_.X, L_114_.Y.Scale, L_114_.Y.Offset + L_117_.Y)
+		L_7_:GetService(L_2_.char(L_1_._owOOwOUwuuwUUWUowOuwUOwOUwUuwUowO, L_1_._OwOowOUwuOwOuWuUwUuWUUWuuwUOwOUwU, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._UwUOwouWUowoOwoUwUuwuOwoOWoOwOuwU, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu) .. ''):Create(L_110_, L_3_.new(L_112_), {
+			Position = L_118_
+		}):Play()
+	end;
+	L_110_.InputBegan:Connect(function(L_119_arg0)
+		if (L_119_arg0.UserInputType == L_9_.UserInputType.MouseButton1 or L_119_arg0.UserInputType == L_9_.UserInputType.Touch) then
+			L_111_ = true
+			L_113_ = L_119_arg0.Position;
+			L_114_ = L_110_.Position;
+			L_119_arg0.Changed:Connect(function()
+				if L_119_arg0.UserInputState == L_9_.UserInputState.End then
+					L_111_ = false
+				end
+			end)
+		end
+	end)
+	L_109_.InputChanged:Connect(function(L_120_arg0)
+		if L_120_arg0.UserInputType == L_9_.UserInputType.MouseMovement or L_120_arg0.UserInputType == L_9_.UserInputType.Touch then
+			if L_111_ then
+				L_115_func(L_120_arg0)
+			end
+		end
+	end)
+end;
+L_12_.wrap(L_23_func)()
+local function L_24_func()
+	local L_121_ = L_6_.new(L_2_.char(L_1_._uwUOwOUwuOwooWOuwUOwOUwuOwOuwUUwu, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._oWOOwOOwOOwOOwOoWOuwUuwUOwOoWOOwo, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU) .. '', L_21_)
+	local L_122_ = L_121_.Parent;
+	local function L_123_func()
+		local L_124_ = L_7_.Players:GetPlayers()
+		L_122_.Text = L_2_.char(L_1_._UwUUwUOwOuwUoWouwUoWOUwuOwoOwOowO, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwUowouWuUWuoWouwUuwUUwuuwUuwUUwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU, L_1_._OwouwUuwUuwUOwOUWUUwUOwOOwOOwOowO, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._OwOUwuOwoUwUUwuuwuOwooWouwUOwOoWO, L_1_._UwuUwUuWuowoUwUUwUOWouwUOwOuwUowo, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU, L_1_._OwOowOUwUUwUOwoOwOowOuWuOwOoWouwU, L_1_._OwOowOuwUUwUUwUOwOOWouwUUwUUwUUwU) .. "" .. #L_124_
+	end;
+	L_123_func()
+	L_7_.Players.PlayerAdded:Connect(L_123_func)
+	L_7_.Players.PlayerRemoving:Connect(L_123_func)
+end;
+L_12_.wrap(L_24_func)()
+local function L_25_func()
+	local L_125_ = L_6_.new(L_2_.char(L_1_._uwUOwOUwuOwooWOuwUOwOUwuOwOuwUUwu, L_1_._owOuWUuwUOwOOwOOwOUwUUwUowouwUUwu, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owOowOUWuOwOowOowoowouwuOwOUwUowo, L_1_._oWouwUUwuOwoUwUuwUOwOUwUOwOUwUowO, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._uwUOwOOwoUwUUwUowOUwUOwOuwUOwoUwu, L_1_._oWOOwOOwOOwOOwOoWOuwUuwUOwOoWOOwo, L_1_._OwOUwUUwUoWoOwOOwOUwUuwUUwUOWOuwU) .. '', L_14_)
+	local L_126_ = L_7_:GetService(L_2_.char(L_1_._UwUUwUOwOuwUoWouwUoWOUwuOwoOwOowO, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwUowouWuUWuoWouwUuwUUwuuwUuwUUwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._OwOOwOoWoOwOowOOwOUwUoWoOwOOwOUWU) .. "").LocalPlayer;
+	local L_127_ = L_126_:GetMouse()
+	local L_128_ = L_125_.Parent.SA;
+	local L_129_ = L_2_.char(L_1_._OwOOwOowOUwUowouwUUwUuwuUwUUwuUwU) .. ""
+	L_127_.KeyDown:Connect(function(L_130_arg0)
+		if L_130_arg0 == L_129_ then
+			if L_128_.Visible == false then
+				L_128_.Visible = true
+			else
+				L_128_.Visible = false
+			end
+		end
+	end)
+end;
+L_12_.wrap(L_25_func)()
+L_18_.MouseButton1Down:connect(function()
+	function L_14_()
+		for L_133_forvar0, L_134_forvar1 in L_8_(L_7_:GetChildren()) do
+			if L_134_forvar1.ClassName == L_2_.char(L_1_._UwUUwUOwOuwUoWouwUoWOUwuOwoOwOowO, L_1_._uwuuwUUWUuwUowOUWUOwoUwuOWOowOuwU, L_1_._owoowOuWUuwUOwOOwOOWOOwOUwUuwUOwo, L_1_._uwUowouWuUWuoWouwUuwUUwuuwUuwUUwu, L_1_._owoUwUUwuuwuoWOuwUowOOwOUwuUwUuwu, L_1_._OwOOwOuwUUwUUwUuwuOwOOwOOwOOwOOwO, L_1_._OwOOwOoWoOwOowOOwOUwUoWoOwOOwOUWU) .. "" then
+				return L_134_forvar1.Name
+			end
+		end
+	end;
+	local L_131_ = L_11_()
+	local L_132_ = L_7_[L_131_].LocalPlayer;
+	L_12_.resume(L_12_.create(function()
+		while L_5_(1 ) do
+			L_12_.resume(L_12_.create(function()
+				for L_135_forvar0, L_136_forvar1 in L_8_(L_7_[L_131_]:GetPlayers()) do
+					if L_136_forvar1.Name ~= L_132_.Name and L_136_forvar1.Character then
+						L_136_forvar1.Character.RightUpperLeg.CanCollide = false
+						L_136_forvar1.Character.RightUpperLeg.Transparency = 10
+						L_136_forvar1.Character.RightUpperLeg.Size = L_4_.new((function()
+							local L_137_ = "6860D7C21A0998E7A6"
+							return #L_137_ + 0
+						end)(), (function()
+							local L_138_ = "92B55077E415316C4A"
+							return #L_138_ + 0
+						end)(), (function()
+							local L_139_ = "057CF1FC505F5E994B"
+							return #L_139_ + 0
+						end)())
+						L_136_forvar1.Character.LeftUpperLeg.CanCollide = false
+						L_136_forvar1.Character.LeftUpperLeg.Transparency = (function(L_140_arg0, L_141_arg1)
+							local L_142_ = {
+								94,
+								931,
+								801,
+								972,
+								838
+							}
+							return #L_142_
+						end)() + 5;
+						L_136_forvar1.Character.LeftUpperLeg.Size = L_4_.new(18 , 18 , 18 )
+						L_136_forvar1.Character.HeadHB.CanCollide = false
+						L_136_forvar1.Character.HeadHB.Transparency = (function()
+							local L_143_ = "73716DF5E2"
+							return #L_143_ + 0
+						end)()
+						L_136_forvar1.Character.HeadHB.Size = L_4_.new((function(L_144_arg0, L_145_arg1)
+							local L_146_ = {
+								120,
+								879,
+								803,
+								918,
+								955
+							}
+							return #L_146_
+						end)() + 20, 25 , 25 )
+						L_136_forvar1.Character.HumanoidRootPart.CanCollide = false
+						L_136_forvar1.Character.HumanoidRootPart.Transparency = (function(L_147_arg0, L_148_arg1)
+							local L_149_ = {
+								722,
+								340,
+								198,
+								424,
+								394
+							}
+							return #L_149_
+						end)() + 5;
+						L_136_forvar1.Character.HumanoidRootPart.Size = L_4_.new((function(L_150_arg0, L_151_arg1)
+							local L_152_ = {
+								803,
+								822,
+								889,
+								669,
+								170
+							}
+							return #L_152_
+						end)() + 13, (function()
+							local L_153_ = "10A41F7E957AC1EF21"
+							return #L_153_ + 0
+						end)(), 18 )
+					end
+				end
+			end))
+		end
+	end))
+end)
